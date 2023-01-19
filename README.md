@@ -2,7 +2,7 @@
 
 Диаграмма отражает связи таблиц для хранения данных приложения Filmorate.
 
-![The link to ER-model] (https://github.com/ku-alexej/er_model/blob/main/ER_model.png?raw=true)
+![The link to ER-model] (https://github.com/ku-alexej/er_model/blob/main/ER_model.png)
 
 ## Таблицы
  
