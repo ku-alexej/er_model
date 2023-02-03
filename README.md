@@ -2,6 +2,8 @@
 
 Диаграмма отражает связи таблиц для хранения данных приложения Filmorate.
 
+Обратная связь после взаимопроверки находится внизу документа.
+
 ![The link to ER-model](https://github.com/ku-alexej/er_model/blob/main/ER_model.png)
 
 ## Таблицы
@@ -71,3 +73,15 @@ WHERE film_id IN (SELECT film_id.likes
                   ORDER BY SUM(user_id) DESC
                   LIMIT 10);
 ```
+
+## Обратная связь
+
+Ниже скрин обратной связи от Александры.
+
+![The link to Feedback](https://github.com/ku-alexej/er_model/blob/main/Feedback.png)
+
+Ссылка на Хабр из моего ответа: [The link to habr](https://qna.habr.com/q/27555)
+
+Диаграмма после комментариев ниже. Изменены названия некоторых полей и таблицы MPA.
+
+![The link to ER-model](https://github.com/ku-alexej/er_model/blob/main/ER_model.2.png)
